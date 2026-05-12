@@ -1,4 +1,4 @@
-# -7822 (Tuple Inconsistency Measures + ICQA)
+#  Tuple Inconsistency Measures + ICQA (IJCAI 2026)
 
 This repository provides the full reproducible pipeline to generate the experimental results on tuple inconsistency measures and ICQA metrics using the TPC-H benchmark.
 
