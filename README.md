@@ -1,6 +1,7 @@
 #  Tuple Inconsistency Measures + ICQA (IJCAI 2026)
 
 This repository provides the full reproducible pipeline to generate the experimental results on tuple inconsistency measures and ICQA metrics using the TPC-H benchmark.
+
 Paper link: https://hal.science/hal-05687981v1
 
 ## 0. Environment Setup
